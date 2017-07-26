@@ -64,7 +64,7 @@ export default {
 .nav-left a
   color:#fff
   font-weight: bold
-a .r-item
+a.r-item
   color:#C1C1C1
   padding: 0.5rem 1.75rem
   +mobile
