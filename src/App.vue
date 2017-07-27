@@ -32,6 +32,21 @@
       </div>
     </div>
     <router-view></router-view>
+
+    <footer class = "footer is-primary">
+      <div class="container">
+        <div class="columns">
+          <div class="column">
+          <p>And here is a spiffy footer</p>
+          </div>
+          <div class="column has-text-right">
+            <a href="#" class="icon"><i class="fa fa-facebook"></i></a>
+            <a href="#" class="icon"><i class="fa fa-twitter"></i></a>
+
+          </div>
+        </div>
+      </div>
+    </footer>
   </div>
 </template>
 
