@@ -33,7 +33,7 @@
     </div>
     <router-view></router-view>
 
-    <footer class = "footer is-primary">
+    <footer class="footer is-primary">
       <div class="container">
         <div class="columns">
           <div class="column">
@@ -88,4 +88,12 @@ a.r-item
       background-color: #F1F1F1
 .nav-toggle span
   background-color:#C1C1C1
+
+footer
+  background-color: $primary !important
+  color: #fff
+
+  .icon
+    color: #fff
+    margin-left: 20px
 </style>
