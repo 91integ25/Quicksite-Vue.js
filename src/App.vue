@@ -51,7 +51,7 @@
 </template>
 
 <script>
-
+// studying today
 export default {
   name: 'app',
   data:function(){
@@ -96,4 +96,5 @@ footer
   .icon
     color: #fff
     margin-left: 20px
+
 </style>
