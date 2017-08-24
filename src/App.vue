@@ -51,8 +51,7 @@
 </template>
 
 <script>
-// studying today
-// tutoring today
+
 export default {
   name: 'app',
   data:function(){
